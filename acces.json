@@ -1,0 +1,17 @@
+{
+   "status" : true,
+   "data": {
+      "YanaMiku": {
+         "IP_SCRIPT": "127.0.0.1",
+         "IP_SERVER": "199.081.177",
+         "CODE_VERIFIKASI": "abc12345",
+         "perizinan": true
+      },
+      "AnotherUser": {
+         "IP_SCRIPT": "127.0.0.2",
+         "IP_SERVER": "17.927.273",
+         "CODE_VERIFIKASI": "54321abc",
+         "perizinan": false
+      }
+   }
+}
